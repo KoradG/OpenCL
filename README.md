@@ -1,0 +1,1 @@
+# Párhuzamos eszközök programozása
