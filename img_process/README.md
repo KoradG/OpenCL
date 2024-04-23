@@ -17,8 +17,7 @@ Ez a simított kép lehetővé teszi az élek és zajok csökkentését, ami el�
 ## Python program
 
 A Python program feladata a képfeldolgozási folyamat vezérlése és az eredmények megjelenítése. A program az OpenCL-t használ a kernelek végrehajtásához, 
-majd megjeleníti az eredményeket a felhasználó számára. A program egyszerűen kezelhető parancssori felhasználói felülettel rendelkezik, amely lehetővé teszi a felhasználó számára, hogy kiválassza a bemeneti képet és a képfeldolgozási műveletet.
-
+majd megjeleníti az eredményeket a felhasználó számára. A program egyszerűen kezelhető parancssori felhasználói felülettel rendelkezik.
 ## Követelmények
 
 - Python 3.x
